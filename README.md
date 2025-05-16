@@ -50,6 +50,10 @@ taskli/
 
 - Go 1.24.3 or higher
 
+## 📃 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
 ## Author
 
 Made with 🤍 by [Carlos Silva](https://github.com/carlosmms1)
